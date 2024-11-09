@@ -16,6 +16,9 @@ dependencies:
   cupertino_icons: ^1.0.6
   get: ^4.6.6
 
+  tots_material:
+    path: ./tots-material
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -26,3 +29,6 @@ dev_dependencies:
 flutter:
 
   uses-material-design: true
+
+  assets:
+    - assets/
