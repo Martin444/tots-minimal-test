@@ -343,6 +343,13 @@ packages:
       relative: true
     source: path
     version: "1.0.0+1"
+  tots_minimal_api:
+    dependency: "direct main"
+    description:
+      path: tots_minimal_api
+      relative: true
+    source: path
+    version: "1.0.0+1"
   typed_data:
     dependency: transitive
     description:

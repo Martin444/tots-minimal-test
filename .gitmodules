@@ -1,3 +1,6 @@
 [submodule "tots_material"]
 	path = tots-material
 	url = https://github.com/Martin444/tots-material.git
+[submodule "tots_minimal_api"]
+	path = tots_minimal_api
+	url = https://github.com/Martin444/tots_minimal_api.git

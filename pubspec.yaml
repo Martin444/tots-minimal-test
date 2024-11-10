@@ -18,6 +18,9 @@ dependencies:
 
   tots_material:
     path: ./tots-material
+  
+  tots_minimal_api:
+    path: ./tots_minimal_api
 
 dev_dependencies:
   flutter_test:
